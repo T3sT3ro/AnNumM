@@ -13,5 +13,3 @@ function stringfloat(str)
 
     s*m*2.0^e
 end
-
-bitstring(stringfloat("1000000001101101010000000000000000000000000000000000000001111101"))
